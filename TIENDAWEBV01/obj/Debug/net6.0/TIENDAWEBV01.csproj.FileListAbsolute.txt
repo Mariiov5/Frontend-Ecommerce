@@ -279,3 +279,6 @@ C:\Users\Lenovo Yoga\OneDrive\Documentos\Todos Mis Archivos\Programación\Lengua
 C:\Users\Lenovo Yoga\OneDrive\Documentos\Todos Mis Archivos\Programación\Lenguajes de Programación\DotNet\TIENDAWEBV01\TIENDAWEBV01\obj\Debug\net6.0\TIENDAWEBV01.pdb
 C:\Users\Lenovo Yoga\OneDrive\Documentos\Todos Mis Archivos\Programación\Lenguajes de Programación\DotNet\TIENDAWEBV01\TIENDAWEBV01\obj\Debug\net6.0\TIENDAWEBV01.genruntimeconfig.cache
 C:\Users\Lenovo Yoga\OneDrive\Documentos\Todos Mis Archivos\Programación\Lenguajes de Programación\DotNet\TIENDAWEBV01\TIENDAWEBV01\obj\Debug\net6.0\ref\TIENDAWEBV01.dll
+C:\Users\carma\Documents\GitHub\Frontend-Ecommerce\TIENDAWEBV01\obj\Debug\net6.0\TIENDAWEBV01.dll
+C:\Users\carma\Documents\GitHub\Frontend-Ecommerce\TIENDAWEBV01\obj\Debug\net6.0\refint\TIENDAWEBV01.dll
+C:\Users\carma\Documents\GitHub\Frontend-Ecommerce\TIENDAWEBV01\obj\Debug\net6.0\TIENDAWEBV01.pdb
